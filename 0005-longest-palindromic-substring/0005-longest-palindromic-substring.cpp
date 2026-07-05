@@ -1,27 +1,34 @@
 class Solution {
 public:
-    vector<vector<int>> dp;
-    bool checkPalindrome(int l , int r,string &s){
-        if(l>=r) return 1;
-
-        if(dp[l][r] != -1) return dp[l][r];
-        if(s[l]==s[r]){
-            return dp[l][r] = checkPalindrome(l+1,r-1,s);
-        }
-        return dp[l][r] = false;
-    }
     string longestPalindrome(string s) {
         int n = s.length();
-        dp.assign(n,vector<int>(n,-1));
-        int maxLen = 0;
+        int maxLen = 1;
         int strPoint = 0;
         for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-                int len = j-i+1;
-                if(len>maxLen && checkPalindrome(i,j,s)){
-                    strPoint = i;
-                    maxLen = j-i+1;
-                }
+            // Case 1 - odd length:
+            int l = i-1;
+            int r = i+1;
+            while(l>=0 && r<n && s[l]==s[r]){
+                l--;
+                r++;
+            }
+            int len = r-l-1;
+            if(len>maxLen){
+                strPoint = l+1;
+                maxLen = len;
+            }
+
+            // Case 2 - even length:
+            l = i;
+            r = i+1;
+            while(l>=0 && r<n && s[l]==s[r]){
+                l--;
+                r++;
+            }
+            len = r-l-1;
+            if(len>maxLen){
+                strPoint = l+1;
+                maxLen = len;
             }
         }
         return s.substr(strPoint,maxLen);
