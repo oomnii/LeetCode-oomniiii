@@ -18,50 +18,21 @@ public:
         else
             parent[u] = v;
     }
-    
+
     vector<bool> pathExistenceQueries(int n, vector<int>& nums, int maxDiff, vector<vector<int>>& queries) {
         parent.resize(n);
         for(int i=0;i<n;i++){
             parent[i] = i;
         }
-        int last = -1;
-        int l=0;
-        int r=n-1;
-        int idx = -1;
-        while(l<=r){
-            int mid = l+(r-l)/2;
-            if(nums[mid]-nums[0]<=maxDiff){
-                idx = mid;
-                l = mid+1;
-            }
-            else{
-                r = mid-1;
-            }
-        }
-        last = idx;
-        for(int i=0;i<=last;i++){
-            unionUV(0,i);
-        }
-        for(int i=1;i<n;i++){
-            l = last;
-            r = n-1;
-            idx = -1;
-            while(l<=r){
-                int mid = l+(r-l)/2;
-                if(nums[mid]-nums[i]<=maxDiff){
-                    idx = mid;
-                    l = mid+1;
-                }
-                else{
-                    r = mid-1;
-                }
-            }
-            for(int j = last+1;j<=idx;j++){
+        int i = 0;
+        int j = i+1;
+        while(i<n){
+            while(j<n && (nums[j]-nums[i])<=maxDiff){
                 unionUV(i,j);
+                j++;
             }
-            last = idx;
+            i++;   
         }
-
         vector<bool> ans;
         for(auto &it:queries){
             int u = it[0];
