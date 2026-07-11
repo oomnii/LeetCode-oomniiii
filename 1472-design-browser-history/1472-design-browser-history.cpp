@@ -6,7 +6,7 @@ public:
         list* prev = NULL;
     };
     
-    list* curr = new list();
+    list* curr = nullptr;
 
     BrowserHistory(string homepage) {
         list* entry = new list();
@@ -14,7 +14,16 @@ public:
         curr = entry;
     }
     
+    void clearForward(list* node) {
+        while (node) {
+            list* temp = node;
+            node = node->next;
+            delete temp;
+        }
+    }
+    
     void visit(string url) {
+        clearForward(curr->next);
         list* entry = new list();
         entry->data = url;
         entry->prev = curr;
