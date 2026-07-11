@@ -1,50 +1,26 @@
 class BrowserHistory {
 public:
-    struct list{
-        string data = "";
-        list* next = NULL;
-        list* prev = NULL;
-    };
-    
-    list* curr = nullptr;
+    vector<string> history;
+    int curr = 0;
 
     BrowserHistory(string homepage) {
-        list* entry = new list();
-        entry->data = homepage;
-        curr = entry;
+        history.push_back(homepage);
     }
-    
-    void clearForward(list* node) {
-        while (node) {
-            list* temp = node;
-            node = node->next;
-            delete temp;
-        }
-    }
-    
+
     void visit(string url) {
-        clearForward(curr->next);
-        list* entry = new list();
-        entry->data = url;
-        entry->prev = curr;
-        curr->next = entry;
-        curr = entry;
+        history.resize(curr + 1);  
+        history.push_back(url);
+        curr++;
     }
-    
+
     string back(int steps) {
-        while(curr->prev && steps){
-            curr = curr->prev;
-            steps--;
-        }
-        return curr->data;
+        curr = max(0, curr - steps);
+        return history[curr];
     }
-    
+
     string forward(int steps) {
-        while(curr->next && steps){
-            curr = curr->next;
-            steps--;
-        }
-        return curr->data;
+        curr = min((int)history.size() - 1, curr + steps);
+        return history[curr];
     }
 };
 
