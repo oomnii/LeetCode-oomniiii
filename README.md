@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1301-number-of-paths-with-max-score) |
+| [1472-design-browser-history](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1472-design-browser-history) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
@@ -78,4 +79,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2685-count-the-number-of-complete-components) |
+## Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1472-design-browser-history) |
+## Stack
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1472-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
