@@ -1,76 +1,96 @@
 class Solution {
 public:
-    vector<int> pathExistenceQueries(int n, vector<int>& nums, int maxDiff, vector<vector<int>>& queries) {
+    int rows;
+    int cols;
+    vector<vector<int>> ancestorTable;
 
-        // Pair each value with its original index
-        vector<pair<int, int>> sorted(n);
-        for (int i = 0; i < n; i++) {
-            sorted[i] = {nums[i], i};
-        }
+    int customUpperBound(vector<pair<int, int>>& arr, int target) {
+        int n = arr.size();
+        int l = 0;
+        int r = n-1;
+        int result = 0;
 
-        sort(sorted.begin(), sorted.end());
+        while(l <= r) {
+            int mid = l + (r-l)/2;
 
-        // Map original index -> sorted position
-        unordered_map<int, int> mp;
-        for (int i = 0; i < n; i++) {
-            mp[sorted[i].second] = i;
-        }
-
-        // Binary lifting levels
-        int LOG = 1;
-        while ((1 << LOG) < n) LOG++;
-
-        vector<vector<int>> up(n, vector<int>(LOG));
-
-        // Compute farthest reachable index in one hop
-        int r = 0;
-        for (int l = 0; l < n; l++) {
-            if (r < l) r = l;
-
-            while (r + 1 < n && sorted[r + 1].first - sorted[l].first <= maxDiff)
-                r++;
-
-            up[l][0] = r;
-        }
-
-        // Build binary lifting table
-        for (int j = 1; j < LOG; j++) {
-            for (int i = 0; i < n; i++) {
-                up[i][j] = up[up[i][j - 1]][j - 1];
+            if(arr[mid].first <= target) {
+                result = mid;
+                l = mid+1;
+            } else {
+                r = mid-1;
             }
         }
 
-        vector<int> ans;
+        return result;
+    }
 
-        for (auto &q : queries) {
-            int src = mp[q[0]];
-            int dest = mp[q[1]];
+    vector<int> pathExistenceQueries(int n, vector<int>& nums, int maxDiff, vector<vector<int>>& queries) {
+        //arr
+        vector<pair<int, int>> arr(n);
+        for(int i = 0; i < n; i++) {
+            arr[i] = {nums[i], i};
+        }
 
-            if (src > dest)
-                swap(src, dest);
+        sort(begin(arr), end(arr));
+        vector<int> nodeToIdx(n);
+        for(int i = 0; i < n; i++) {
+            int node = arr[i].second;
+            nodeToIdx[node] = i;
+        }
 
-            if (src == dest) {
-                ans.push_back(0);
+        rows = n;
+        cols = log2(n)+1;
+        ancestorTable.resize(rows, vector<int>(cols, 0));
+
+        //Fill 0th column first
+        for(int node = 0; node < n; node++) { //nlogn
+            int farthestIdxOneHop = customUpperBound(arr, arr[node].first + maxDiff);
+            ancestorTable[node][0] = farthestIdxOneHop;
+        }
+
+        //Fill remaining column
+        for(int j = 1; j < cols; j++) { //logn
+            for(int node = 0; node < n; node++) { //n
+                ancestorTable[node][j] = ancestorTable[ ancestorTable[node][j-1] ][j-1];
+            }
+        }
+
+        vector<int> result;
+        for(auto &query : queries) { //O(q)
+            int u = query[0];
+            int v = query[1];
+
+            int a = nodeToIdx[u];
+            int b = nodeToIdx[v];
+            if(a == b) {
+                result.push_back(0);
                 continue;
             }
 
-            int curr = src;
-            int hops = 0;
+            if(a > b) {
+                swap(a, b);
+            }
 
-            // Greedily take the largest jump possible
-            for (int j = LOG - 1; j >= 0; j--) {
-                if (up[curr][j] < dest) {
-                    curr = up[curr][j];
-                    hops += (1 << j);
+            int curr  = a;
+            int jumps = 0;
+
+            for(int j = cols-1; j >= 0; j--) { //log(n)
+                if(ancestorTable[curr][j] < b) {
+                    curr = ancestorTable[curr][j];
+                    jumps += (1 << j); //pow(2, j)
                 }
             }
 
-            if (up[curr][0] >= dest)
-                ans.push_back(hops + 1);
-            else
-                ans.push_back(-1);
+            if(ancestorTable[curr][0] >= b) {
+                result.push_back(jumps+1);
+            } else {
+                result.push_back(-1);
+            }
+            
         }
 
-        return ans;
+        return result;
+
     }
 };
+
