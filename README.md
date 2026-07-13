@@ -102,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1472-design-browser-history) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
