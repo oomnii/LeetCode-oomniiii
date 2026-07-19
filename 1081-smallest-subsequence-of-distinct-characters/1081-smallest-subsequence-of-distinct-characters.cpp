@@ -7,26 +7,20 @@ public:
         }
 
         vector<bool> present(26,false);
-        stack<char> st;
+        string result = "";
 
         for(auto &ch:s){
             freq[ch-'a']--;
             if (present[ch - 'a']) {
                 continue;
             }
-            while(!st.empty() && st.top()>ch && freq[st.top()-'a']>0){
-                present[st.top()-'a'] = false;
-                st.pop();
+            while(result.size()!=0 && result.back()>ch && freq[result.back()-'a']>0){
+                present[result.back()-'a'] = false;
+                result.pop_back();
             }
-            st.push(ch);
+            result.push_back(ch);
             present[ch-'a'] = true;   
         }
-        string ans = "";
-        while(!st.empty()){
-            ans += st.top();
-            st.pop();
-        }
-        reverse(ans.begin(),ans.end());
-        return ans;
+        return result;
     }
 };
