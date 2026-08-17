@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0005-longest-palindromic-substring) |
 | [0567-permutation-in-string](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0567-permutation-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0877-stone-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1510-stone-game-iv) |
@@ -306,4 +308,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0347-top-k-frequent-elements) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
