@@ -159,11 +159,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [2685-count-the-number-of-complete-components](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3310-remove-methods-from-project) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0547-number-of-provinces](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3310-remove-methods-from-project) |
 ## Linked List
