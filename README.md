@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0547-number-of-provinces](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0589-n-ary-tree-preorder-traversal](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0684-redundant-connection](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0785-is-graph-bipartite) |
 | [2685-count-the-number-of-complete-components](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3310-remove-methods-from-project) |
 ## Linked List
@@ -380,4 +384,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0743-network-delay-time) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
