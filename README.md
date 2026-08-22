@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0210-course-schedule-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0743-network-delay-time) |
 | [2685-count-the-number-of-complete-components](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0684-redundant-connection](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0743-network-delay-time) |
 | [2685-count-the-number-of-complete-components](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0429-n-ary-tree-level-order-traversal](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0547-number-of-provinces](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0743-network-delay-time) |
 | [2685-count-the-number-of-complete-components](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3310-remove-methods-from-project) |
 ## Linked List
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -368,4 +372,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
