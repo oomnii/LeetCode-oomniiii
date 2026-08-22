@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0486-predict-the-winner) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1288-remove-covered-intervals) |
@@ -398,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0785-is-graph-bipartite) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
