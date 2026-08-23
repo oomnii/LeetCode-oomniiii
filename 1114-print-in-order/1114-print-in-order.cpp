@@ -1,44 +1,29 @@
 class Foo {
 public:
-    mutex mtx;
-    condition_variable cv;
-    int stage = 0;
+    atomic<bool> firstDone{false};
+    atomic<bool> secondDone{false};
 
     Foo() {}
 
     void first(function<void()> printFirst) {
         printFirst();
-        {
-            lock_guard<mutex> lock(mtx);
-            stage = 1;
-        }
-
-        cv.notify_all();
+        firstDone = true;
     }
 
     void second(function<void()> printSecond) {
-        {
-            unique_lock<mutex> lock(mtx);
-            cv.wait(lock, [&]() {
-                return stage >= 1;
-            });
+        while (!firstDone) {
+            this_thread::yield();
         }
 
         printSecond();
-        {
-            lock_guard<mutex> lock(mtx);
-            stage = 2;
-        }
-        cv.notify_all();
+        secondDone = true;
     }
 
     void third(function<void()> printThird) {
-        {
-            unique_lock<mutex> lock(mtx);
-            cv.wait(lock, [&]() {
-                return stage >= 2;
-            });
+        while (!secondDone) {
+            this_thread::yield();
         }
+
         printThird();
     }
 };
