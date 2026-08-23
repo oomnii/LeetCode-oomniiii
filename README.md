@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1301-number-of-paths-with-max-score) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2685-count-the-number-of-complete-components](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2685-count-the-number-of-complete-components](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3310-remove-methods-from-project) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -400,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
