@@ -14,9 +14,9 @@ public:
         
         for (int i = 0; i < n; i++) {
             unique_lock<mutex> lock(mtx);
-            cv.wait(lock,[&](){
-                return turn==0;
-            });
+            while (turn != 0) {
+                cv.wait(lock);
+            }
             printFoo();
         	turn = 1;
             lock.unlock();
@@ -28,9 +28,9 @@ public:
         
         for (int i = 0; i < n; i++) {
             unique_lock<mutex> lock(mtx);
-            cv.wait(lock,[&](){
-                return turn==1;
-            });
+            while (turn != 1) {
+                cv.wait(lock);
+            }
             printBar();
         	turn = 0;
             lock.unlock();
