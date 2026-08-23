@@ -420,4 +420,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1114-print-in-order) |
+| [1116-print-zero-even-odd](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1116-print-zero-even-odd) |
 <!---LeetCode Topics End-->
