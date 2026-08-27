@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0684-redundant-connection](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0684-redundant-connection) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0542-01-matrix](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0547-number-of-provinces) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Topological Sort
@@ -442,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1117-building-h2o](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1117-building-h2o) |
 | [1195-fizz-buzz-multithreaded](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1226-the-dining-philosophers) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
