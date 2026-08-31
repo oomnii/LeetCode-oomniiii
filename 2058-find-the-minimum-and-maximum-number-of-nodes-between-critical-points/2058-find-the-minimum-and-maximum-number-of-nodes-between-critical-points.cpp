@@ -13,8 +13,7 @@ public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
         ListNode* prev = head;
         ListNode* curr = head->next;
-        ListNode* forward = NULL;
-        if(curr->next) forward = curr->next;
+        ListNode* forward = curr->next;
         int i=0;
         int str = -1;
         int prevIdx = -1;
