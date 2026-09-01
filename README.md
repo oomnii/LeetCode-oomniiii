@@ -459,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0226-invert-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
