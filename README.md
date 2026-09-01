@@ -1,7 +1,7 @@
-A collection of LeetCode questions to ace the coding interview!
+# MY CODING JOURNEY :
 ## LeetCode - (https://leetcode.com/u/oomniiii/) 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# Topics
 ## Array
 |  |
 | ------- |
