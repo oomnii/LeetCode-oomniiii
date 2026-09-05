@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -186,6 +187,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0875-koko-eating-bananas) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3312-sorted-gcd-pair-queries) |
