@@ -237,6 +237,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0210-course-schedule-ii) |
@@ -253,6 +254,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0210-course-schedule-ii) |
@@ -420,6 +422,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -466,6 +469,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0226-invert-binary-tree) |
 ## Database
 |  |
