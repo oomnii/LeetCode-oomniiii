@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0130-surrounded-regions) |
 | [0347-top-k-frequent-elements](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0347-top-k-frequent-elements) |
@@ -74,6 +75,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0542-01-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -93,6 +95,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0079-word-search) |
 | [0567-permutation-in-string](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0567-permutation-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -244,6 +247,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0130-surrounded-regions) |
@@ -376,6 +380,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
