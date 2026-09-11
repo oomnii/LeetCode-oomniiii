@@ -9,6 +9,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -387,6 +388,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
@@ -509,4 +511,8 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0337-house-robber-iii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
