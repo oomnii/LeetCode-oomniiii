@@ -14,6 +14,7 @@
 | [0079-word-search](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0130-surrounded-regions) |
+| [0303-range-sum-query-immutable](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0542-01-matrix) |
@@ -171,6 +172,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3312-sorted-gcd-pair-queries) |
@@ -312,6 +314,7 @@
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0303-range-sum-query-immutable) |
 | [1472-design-browser-history](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
