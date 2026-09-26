@@ -33,6 +33,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1472-design-browser-history) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -108,6 +109,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -198,6 +200,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
