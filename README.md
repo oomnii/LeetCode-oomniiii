@@ -108,6 +108,7 @@
 | [0567-permutation-in-string](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0567-permutation-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -323,6 +324,7 @@
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1472-design-browser-history](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1472-design-browser-history) |
 ## Design
 |  |
@@ -564,4 +566,8 @@
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0808-soup-servings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
