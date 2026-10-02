@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0337-house-robber-iii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0486-predict-the-winner) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0079-word-search) |
 | [0567-permutation-in-string](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0567-permutation-in-string) |
@@ -423,6 +425,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -576,6 +579,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
