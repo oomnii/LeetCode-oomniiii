@@ -4,6 +4,7 @@ public:
     vector<vector<int>> dp;
     bool solve(string &s,int i,int cnt){
         if(cnt<0) return false;
+        if(cnt>n/2) return false;
         if(i==n){
             if(cnt==0) return true;
             return false;
