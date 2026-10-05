@@ -113,6 +113,7 @@
 | [0079-word-search](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0079-word-search) |
 | [0567-permutation-in-string](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0856-score-of-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -336,6 +337,7 @@
 | [0032-longest-valid-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0032-longest-valid-parentheses) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -589,6 +591,7 @@
 | [0022-generate-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
