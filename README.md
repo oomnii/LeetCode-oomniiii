@@ -111,6 +111,7 @@
 | [0032-longest-valid-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0301-remove-invalid-parentheses) |
 | [0567-permutation-in-string](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0856-score-of-parentheses) |
@@ -314,6 +315,7 @@
 | [0207-course-schedule](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0301-remove-invalid-parentheses) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0542-01-matrix](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0547-number-of-provinces) |
@@ -440,6 +442,7 @@
 | [0022-generate-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
