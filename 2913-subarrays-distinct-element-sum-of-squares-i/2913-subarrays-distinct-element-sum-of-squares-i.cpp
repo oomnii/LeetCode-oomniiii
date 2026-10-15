@@ -4,10 +4,14 @@ public:
         int n = nums.size();
         int sum = 0;
         for(int i=0;i<n;i++){
-            unordered_set<int> st;
+            vector<int> v(101,-1);
+            int distinct = 0;
             for(int j=i;j<n;j++){
-                st.insert(nums[j]);
-                sum += (st.size()*st.size());
+                if(v[nums[j]]==-1){
+                    v[nums[j]]++;
+                    distinct++;
+                }
+                sum += (distinct*distinct);
             }
         }
         return sum;
