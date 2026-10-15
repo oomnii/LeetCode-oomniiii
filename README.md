@@ -40,6 +40,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -221,6 +222,7 @@
 | [1386-cinema-seat-allocation](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -422,6 +424,7 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -618,4 +621,8 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
