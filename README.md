@@ -36,6 +36,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -154,6 +155,7 @@
 | [1288-remove-covered-intervals](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -246,6 +248,7 @@
 | [0875-koko-eating-bananas](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3312-sorted-gcd-pair-queries) |
