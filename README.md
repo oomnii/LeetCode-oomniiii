@@ -145,6 +145,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
 | ------- |
