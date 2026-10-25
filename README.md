@@ -24,6 +24,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1301-number-of-paths-with-max-score) |
@@ -97,6 +98,7 @@
 | [0130-surrounded-regions](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0542-01-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1301-number-of-paths-with-max-score) |
 ## Two Pointers
@@ -267,6 +269,7 @@
 | [0547-number-of-provinces](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
@@ -332,6 +335,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3310-remove-methods-from-project) |
@@ -355,6 +359,7 @@
 | [0841-keys-and-rooms](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3310-remove-methods-from-project) |
 ## Linked List
