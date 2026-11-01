@@ -16,6 +16,7 @@
 | [0130-surrounded-regions](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0130-surrounded-regions) |
 | [0303-range-sum-query-immutable](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0628-maximum-product-of-three-numbers) |
@@ -181,6 +182,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0002-add-two-numbers) |
 | [0390-elimination-game](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0390-elimination-game) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0628-maximum-product-of-three-numbers) |
 | [0808-soup-servings](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0808-soup-servings) |
