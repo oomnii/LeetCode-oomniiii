@@ -6,24 +6,22 @@ public:
         int totalSubarrays = 0;
         int odd = 0;
         int even = 0;
+        int sum = nums[0];
 
-        vector<int> prefix(n);
-        prefix[0] = nums[0];
-
-        if(prefix[0]%2==1) odd++;
+        if(sum%2==1) odd++;
         else even++;
 
         totalSubarrays += odd;
 
         for(int i=1;i<n;i++){
-            prefix[i] = prefix[i-1]+nums[i];
-            if(prefix[i]%2==0){
+            sum += nums[i];
+            if(sum%2==0){
                 totalSubarrays = (totalSubarrays + odd)%mod;
             }
             else{
                 totalSubarrays = (totalSubarrays + even + 1)%mod;
             }
-            if(prefix[i]%2==1) odd++; 
+            if(sum%2==1) odd++; 
             else even++;
         }
         return totalSubarrays;
