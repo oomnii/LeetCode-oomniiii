@@ -37,6 +37,7 @@
 | [1406-stone-game-iii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1472-design-browser-history) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1872-stone-game-viii) |
@@ -95,6 +96,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -205,6 +207,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2409-count-days-spent-together) |
@@ -237,6 +240,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1140-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3312-sorted-gcd-pair-queries) |
