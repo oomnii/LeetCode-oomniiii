@@ -51,6 +51,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3312-sorted-gcd-pair-queries) |
@@ -100,6 +101,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -187,6 +189,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3536-maximum-product-of-two-digits) |
