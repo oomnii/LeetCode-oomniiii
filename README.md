@@ -55,6 +55,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -163,6 +164,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -273,6 +275,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -379,6 +382,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -601,6 +605,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/oomnii/LeetCode-oomniiii/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/oomnii/LeetCode-oomniiii/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Topological Sort
 |  |
 | ------- |
